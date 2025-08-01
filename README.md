@@ -43,11 +43,6 @@ A complete AWS environment built using either:
   - Upper threshold: 60%
   - Lower threshold: 30%
 
-## Submission Summary
-
-- Deadline: 4 June 2023, 6 PM
-- Deliverable 1: Submitted via Canvas
-- Deliverable 2: Deployed on AWS Academy environment
 
 ## References
 
